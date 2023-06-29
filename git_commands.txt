@@ -22,4 +22,5 @@
  "подключение удаленного репо" : "git remote add origin <URL>",
  "проверка связи локали и удаленки" : "git branch -vv",
  "проверка удаленного сервера" : "git remote -v",
+ "удаление ветки с удаленного репо" : "git push origin -d BranchNmae"
 },
